@@ -1,0 +1,10 @@
+E:\шарп\lb_8-11\lb_8-11\bin\Debug\lb_8-11.exe.config
+E:\шарп\lb_8-11\lb_8-11\bin\Debug\lb_8-11.exe
+E:\шарп\lb_8-11\lb_8-11\bin\Debug\lb_8-11.pdb
+E:\шарп\lb_8-11\lb_8-11\obj\Debug\lb_8-11.csproj.AssemblyReference.cache
+E:\шарп\lb_8-11\lb_8-11\obj\Debug\lb_8_11.Form1.resources
+E:\шарп\lb_8-11\lb_8-11\obj\Debug\lb_8_11.Properties.Resources.resources
+E:\шарп\lb_8-11\lb_8-11\obj\Debug\lb_8-11.csproj.GenerateResource.cache
+E:\шарп\lb_8-11\lb_8-11\obj\Debug\lb_8-11.csproj.CoreCompileInputs.cache
+E:\шарп\lb_8-11\lb_8-11\obj\Debug\lb_8-11.exe
+E:\шарп\lb_8-11\lb_8-11\obj\Debug\lb_8-11.pdb
