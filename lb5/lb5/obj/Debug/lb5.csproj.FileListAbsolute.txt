@@ -1,0 +1,10 @@
+E:\шарп\lb5\lb5\bin\Debug\lb5.exe.config
+E:\шарп\lb5\lb5\bin\Debug\lb5.exe
+E:\шарп\lb5\lb5\bin\Debug\lb5.pdb
+E:\шарп\lb5\lb5\obj\Debug\lb5.csproj.AssemblyReference.cache
+E:\шарп\lb5\lb5\obj\Debug\lb5.Form1.resources
+E:\шарп\lb5\lb5\obj\Debug\lb5.Properties.Resources.resources
+E:\шарп\lb5\lb5\obj\Debug\lb5.csproj.GenerateResource.cache
+E:\шарп\lb5\lb5\obj\Debug\lb5.csproj.CoreCompileInputs.cache
+E:\шарп\lb5\lb5\obj\Debug\lb5.exe
+E:\шарп\lb5\lb5\obj\Debug\lb5.pdb
