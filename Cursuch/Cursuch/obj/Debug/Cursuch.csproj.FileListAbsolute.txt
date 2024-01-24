@@ -1,0 +1,10 @@
+E:\шарп\Cursuch\Cursuch\bin\Debug\Cursuch.exe.config
+E:\шарп\Cursuch\Cursuch\bin\Debug\Cursuch.exe
+E:\шарп\Cursuch\Cursuch\bin\Debug\Cursuch.pdb
+E:\шарп\Cursuch\Cursuch\obj\Debug\Cursuch.csproj.AssemblyReference.cache
+E:\шарп\Cursuch\Cursuch\obj\Debug\Cursuch.Form1.resources
+E:\шарп\Cursuch\Cursuch\obj\Debug\Cursuch.Properties.Resources.resources
+E:\шарп\Cursuch\Cursuch\obj\Debug\Cursuch.csproj.GenerateResource.cache
+E:\шарп\Cursuch\Cursuch\obj\Debug\Cursuch.csproj.CoreCompileInputs.cache
+E:\шарп\Cursuch\Cursuch\obj\Debug\Cursuch.exe
+E:\шарп\Cursuch\Cursuch\obj\Debug\Cursuch.pdb
